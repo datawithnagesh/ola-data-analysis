@@ -44,3 +44,12 @@ Key business KPIs
 8.	Ride Distance Distribution Per Day
 9.	Driver Ratings Distribution
 10.	Customer vs. Driver Ratings
+
+## PROCESS
+Collect Data – Ola booking dataset
+Clean Data – Excel
+Analyze Data – SQL business questions
+Visualize Data – Power BI dashboard
+Find Insights – Identify trends and problems
+Document & Upload – GitHub
+Tools: Excel + SQL + Power BI + GitHub
