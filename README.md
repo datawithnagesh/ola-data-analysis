@@ -21,6 +21,9 @@ Key business KPIs
 ## dataset used
 - <a href="https://github.com/datawithnagesh/ola-data-analysis/blob/main/ola.xlsx">Dataset</a>
 
+## SQL BUSINESS QUESTIONS SOLUTION PRESENTATION
+-<a href="https://github.com/datawithnagesh/ola-data-analysis/blob/main/ola%20riding%20data%20analyst%20project.pdf">solution presentation</a>
+
 ## SQL QUESTIONS:
 1.	Retrieve all successful bookings.
 2.	Find the average ride distance for each vehicle type.
