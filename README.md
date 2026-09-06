@@ -46,10 +46,10 @@ Key business KPIs
 10.	Customer vs. Driver Ratings
 
 ## PROCESS
-Collect Data – Ola booking dataset
-Clean Data – Excel
-Analyze Data – SQL business questions
-Visualize Data – Power BI dashboard
-Find Insights – Identify trends and problems
-Document & Upload – GitHub
-Tools: Excel + SQL + Power BI + GitHub
+1.Collect Data – Ola booking dataset
+2.Clean Data – Excel
+3.Analyze Data – SQL business questions
+4.Visualize Data – Power BI dashboard
+5.Find Insights – Identify trends and problems
+6.Document & Upload – GitHub
+7.Tools: Excel + SQL + Power BI + GitHub
