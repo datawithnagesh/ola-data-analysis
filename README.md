@@ -64,3 +64,6 @@ Key business KPIs
 1.Booking Performance – Identified successful, cancelled, and incomplete bookings to understand overall ride performance.
 2.Revenue & Vehicle Analysis – Analyzed booking value and vehicle types to identify major revenue and demand contributors.
 3.Cancellation & Customer Behavior – Identified cancellation patterns, payment preferences, and customer ratings to find areas for service improvement.
+
+## Final Conclusion
+The Ola Data Analyst project successfully transformed raw ride-booking data into meaningful business insights using SQL and Power BI. The analysis helped identify booking performance, revenue trends, vehicle demand, and cancellation patterns, supporting better data-driven business decisions.
