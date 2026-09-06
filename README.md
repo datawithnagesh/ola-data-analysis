@@ -59,3 +59,8 @@ Key business KPIs
 
 ## dashboard interaction
 <a href="https://github.com/datawithnagesh/ola-data-analysis/blob/main/ola%20dashboard%20png.pdf"> view dashboard</a>
+
+## Project Insights
+1.Booking Performance – Identified successful, cancelled, and incomplete bookings to understand overall ride performance.
+2.Revenue & Vehicle Analysis – Analyzed booking value and vehicle types to identify major revenue and demand contributors.
+3.Cancellation & Customer Behavior – Identified cancellation patterns, payment preferences, and customer ratings to find areas for service improvement.
