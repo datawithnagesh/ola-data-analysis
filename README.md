@@ -53,3 +53,6 @@ Key business KPIs
 5.Find Insights – Identify trends and problems,
 6.Document & Upload – GitHub,
 7.Tools: Excel + SQL + Power BI + GitHub.
+
+## dashboard interaction
+<a href="https://github.com/datawithnagesh/ola-data-analysis/blob/main/ola%20dashboard%20png.pdf"> view dashboard</a>
